@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\bin\Debug\netcoreapp3.1\Exceptionlar.exe
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\bin\Debug\netcoreapp3.1\Exceptionlar.deps.json
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\bin\Debug\netcoreapp3.1\Exceptionlar.runtimeconfig.json
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\bin\Debug\netcoreapp3.1\Exceptionlar.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\bin\Debug\netcoreapp3.1\Exceptionlar.dll
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\bin\Debug\netcoreapp3.1\Exceptionlar.pdb
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.AssemblyInfo.cs
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.dll
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.pdb
+C:\Users\emil code\Desktop\encapsulation\Exceptionlar\Exceptionlar\obj\Debug\netcoreapp3.1\Exceptionlar.genruntimeconfig.cache
